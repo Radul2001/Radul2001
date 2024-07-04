@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radul Dulkith Hettiarachchi</h1>
 <h4 align="center">A passionate full-stack developer and undergraduate ready to learn and innovate. I enjoy learning about new technologies and using them to build effective solutions. Always working to make a difference and achieve success.</h4>
 
-- 👨‍💻 All of my projects are available at [https://www.figma.com/files/team/1153723617918364313/recents-and-sharing/recently-viewed?fuid=1153723610858060790](https://www.figma.com/files/team/1153723617918364313/recents-and-sharing/recently-viewed?fuid=1153723610858060790)
+- 👨‍💻 All of my figma designs are available at [https://www.figma.com/files/team/1153723617918364313/recents-and-sharing/recently-viewed?fuid=1153723610858060790](https://www.figma.com/files/team/1153723617918364313/recents-and-sharing/recently-viewed?fuid=1153723610858060790)
 
 - 📫 How to reach me **raduldulkith2001@gmail.com**
 
