@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Radul Dulkith Hettiarachchi</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9396&center=true&random=false&width=650&lines=Hello+There+👋+I+Am+Radul+Hettiarachchi+.+.+.+.+.)](https://git.io/typing-svg)
+<img src="https://github.com/Zive2001/Zive2001/assets/132709960/20c597ee-98f7-4133-9f3b-c4f9968c9231" width="2800" height="5">
 <h4 align="center">A passionate full-stack developer and undergraduate ready to learn and innovate. I enjoy learning about new technologies and using them to build effective solutions. Always working to make a difference and achieve success.</h4>
 
 - 👨‍💻 All of my figma designs are available at [https://www.figma.com/files/team/1153723617918364313/recents-and-sharing/recently-viewed?fuid=1153723610858060790](https://www.figma.com/files/team/1153723617918364313/recents-and-sharing/recently-viewed?fuid=1153723610858060790)
